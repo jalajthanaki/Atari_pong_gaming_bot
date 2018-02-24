@@ -1,4 +1,4 @@
-Pong-v0## Neural Networks For Pong
+# Neural Networks For Pong
 
 ![Atari Pong](https://i.ytimg.com/vi/moqeZusEMcA/hqdefault.jpg)
 
